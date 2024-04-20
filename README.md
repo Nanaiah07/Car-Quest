@@ -1,2 +1,2 @@
-# Professional-Car-Rental-System
-car rental system is a website which is created to html,css,javascript.where user can purchase a car for rent.
+# Online-Vehicle-Rental-System
+The Online Vehicle rental system is a fully functional website designed using HTML, CSS, and JavaScript. It allows users to browse, select, and rent cars online. 
